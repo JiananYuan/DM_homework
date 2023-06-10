@@ -2,3 +2,5 @@
 .vscode
 feature.csv
 label.csv
+.ipynb_checkpoints
+*.csv
